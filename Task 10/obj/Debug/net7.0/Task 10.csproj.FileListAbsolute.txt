@@ -1,0 +1,15 @@
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 10\bin\Debug\net7.0\Task 10.exe
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 10\bin\Debug\net7.0\Task 10.deps.json
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 10\bin\Debug\net7.0\Task 10.runtimeconfig.json
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 10\bin\Debug\net7.0\Task 10.dll
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 10\bin\Debug\net7.0\Task 10.pdb
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 10\obj\Debug\net7.0\Task 10.csproj.AssemblyReference.cache
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 10\obj\Debug\net7.0\Task 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 10\obj\Debug\net7.0\Task 10.AssemblyInfoInputs.cache
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 10\obj\Debug\net7.0\Task 10.AssemblyInfo.cs
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 10\obj\Debug\net7.0\Task 10.csproj.CoreCompileInputs.cache
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 10\obj\Debug\net7.0\Task 10.dll
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 10\obj\Debug\net7.0\refint\Task 10.dll
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 10\obj\Debug\net7.0\Task 10.pdb
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 10\obj\Debug\net7.0\Task 10.genruntimeconfig.cache
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 10\obj\Debug\net7.0\ref\Task 10.dll

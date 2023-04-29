@@ -1,0 +1,15 @@
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 13\obj\Debug\net7.0\Task 13.csproj.AssemblyReference.cache
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 13\obj\Debug\net7.0\Task 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 13\obj\Debug\net7.0\Task 13.AssemblyInfoInputs.cache
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 13\obj\Debug\net7.0\Task 13.AssemblyInfo.cs
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 13\obj\Debug\net7.0\Task 13.csproj.CoreCompileInputs.cache
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 13\bin\Debug\net7.0\Task 13.exe
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 13\bin\Debug\net7.0\Task 13.deps.json
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 13\bin\Debug\net7.0\Task 13.runtimeconfig.json
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 13\bin\Debug\net7.0\Task 13.dll
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 13\bin\Debug\net7.0\Task 13.pdb
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 13\obj\Debug\net7.0\Task 13.dll
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 13\obj\Debug\net7.0\refint\Task 13.dll
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 13\obj\Debug\net7.0\Task 13.pdb
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 13\obj\Debug\net7.0\Task 13.genruntimeconfig.cache
+C:\Users\Роберт\Desktop\C# HW 2.1\Task 13\obj\Debug\net7.0\ref\Task 13.dll
